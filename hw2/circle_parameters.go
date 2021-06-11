@@ -12,7 +12,7 @@ func main()  {
 	fmt.Scanln(&s)
 	d = 2*math.Sqrt(s / math.Pi)
 	fmt.Println("Диаметр будет равен",d)
-	fmt.Println("Длина окружности будет равена", math.Pi*d)
+	fmt.Println("Длина окружности будет равна", math.Pi*d)
 }
 
 
