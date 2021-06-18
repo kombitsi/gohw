@@ -4,6 +4,9 @@
 *.dll
 *.so
 *.dylib
+.idea
+README.md
+bablesort.go
 
 # All invisible 
 .*
